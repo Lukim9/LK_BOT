@@ -1,8 +1,7 @@
 const Discord = require("discord.js");
 const RichEmbed = require('discord.js');
 var fs = require('fs');
-const PREFIX = "ㄹ"
-const TOKEN = "NTk5OTQwOTcwNjUzNjc5NjM3.XkuNOw.IsivnKy9XBVgtsOE5dT8TgTOE4A"
+const PREFIX = "ㄹ";
 
 var bot = new Discord.Client();
 
