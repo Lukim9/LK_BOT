@@ -1,0 +1,25 @@
+{
+
+  "name": "LKBOT",
+
+  "description": "I am LKBot",
+
+  "version": "0.0.0",
+
+  "main": "test.js",
+
+  "scripts": {
+
+    "start": "node test.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
+}
