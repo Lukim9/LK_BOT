@@ -1249,4 +1249,4 @@ bot.on("message", async message => {
     }
 });
 
-bot.login(TOKEN)
+bot.login(process.env.TOKEN)
